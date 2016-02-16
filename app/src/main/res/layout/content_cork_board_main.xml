@@ -28,4 +28,12 @@
         android:layout_above="@+id/button"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="88dp" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New RadioButton"
+        android:id="@+id/radioButton"
+        android:layout_above="@+id/button2"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
